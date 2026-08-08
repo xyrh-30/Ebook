@@ -2,4 +2,4 @@ format: jb-book
 root: intro
 chapters:
   - file: Chuong1.md
- 
+  - file: Chuong2.md
