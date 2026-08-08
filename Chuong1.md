@@ -1,4 +1,11 @@
 # Chương 1
 
-Chương 1 Mở đầu câu chuyện
-Ngày sương gió
+<!DOCTYPE html>
+<html>
+<body>
+
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1">
+</iframe>
+
+</body>
+</html>
