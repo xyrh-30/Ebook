@@ -1,5 +1,3 @@
-# Giới Thiệu Ebook
+# Chương 1
 
-Chào mừng bạn đến với cuốn ebook của **NguyenLeHung**!
-
-Nội dung được chỉnh sửa trực tiếp từ Google Colab.
+Chương 1
